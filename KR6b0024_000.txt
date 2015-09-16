@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 菩薩投身飴餓虎起塔因緣經
+#+DATE: 2015-08-30 19:34:05.187708
+#+PROPERTY: JUAN 0
